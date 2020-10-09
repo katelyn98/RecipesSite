@@ -1,3 +1,13 @@
-# Methods
+# Dinner
 
-We describe our methods in this chapter.
+## Sandwiches
+### Sandwich Recipe 1
+### Sandwich Recipe 2
+
+## Soups
+### Soup Recipe 1
+### Soup Recipe 2
+
+## Pastas
+### Pasta Recipe 1
+### Pasta Recipe 2
