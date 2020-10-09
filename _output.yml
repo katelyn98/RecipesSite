@@ -1,17 +1,29 @@
 bookdown::gitbook:
-  css: style.css
+  split_by: section
+  css: [css/style.css, css/box.css]
   config:
     toc:
       before: |
-        <li><a href="./">A Minimal Book Example</a></li>
+        <li><a href="./">R Markdown Cookbook</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
-    download: ["pdf", "epub"]
+    sharing:
+      github: yes
+      facebook: no
 bookdown::pdf_book:
   includes:
-    in_header: preamble.tex
+    in_header: [latex/preamble.tex, latex/blackbox.tex, latex/infobox.tex]
+    before_body: latex/before_body.tex
+    after_body: latex/after_body.tex
+  keep_tex: yes
+  fig_crop: false
   latex_engine: xelatex
   citation_package: natbib
-  keep_tex: yes
+  template: null
+  pandoc_args: [--top-level-division=chapter, --wrap=none]
+  toc_depth: 3
+  toc_unnumbered: no
+  toc_appendix: yes
+  highlight_bw: yes
+  quote_footer: ["\\VA{", "}{}"]
 bookdown::epub_book: default
