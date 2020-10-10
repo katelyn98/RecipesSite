@@ -1,10 +1,10 @@
-# Appetizers {#apps}
+# Appetizers {-}
 
-## Vegan
+## Vegan {-}
 
-### Vegan Recipe 1
-### Vegan Recipe 2
+### Vegan Recipe 1 {-}
+### Vegan Recipe 2 {-}
 
 
-## Fried Foods
-### Fried Foods Recipe 1
+## Fried Foods {-}
+### Fried Foods Recipe 1 {-}

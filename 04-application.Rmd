@@ -1,7 +1,9 @@
-# Applications
+# Desserts & Cocktails {-}
 
-Some _significant_ applications are demonstrated in this chapter.
+## Fruit-based {-}
+### Dessert 1 {-}
+### Dessert 2 {-}
 
-## Example one
-
-## Example two
+## Cream-based {-}
+## Example two {-}
+## Example three {-}

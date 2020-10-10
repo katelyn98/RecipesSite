@@ -1,5 +1,5 @@
 --- 
-title: "Asher's Cooking"
+title: "Asher's Cookbook"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -7,9 +7,13 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: katelyn98/RecipesSite
 description: "This is a collection of Asher's favorite recipes and wine pairings"
 ---
 
-# Happy Birthday
+# Asher's Cookbook {-}
+
+## Happy Birthday {-}
+
+
 
