@@ -1,9 +1,157 @@
 # Desserts & Cocktails {-}
 
-## Fruit-based {-}
+Desserts and cocktails are one of the most memorable dishes from a dinner party. 
+
+## Cakes {-}
 ### Dessert 1 {-}
 ### Dessert 2 {-}
 
-## Cream-based {-}
-## Example two {-}
-## Example three {-}
+## Cookies {-}
+### Chocolate Chunk Cookies {-}
+
+*Ingredients*
+
+* 190 grams (1 1/4 cup + 1 1/2 TBSP) all purpose flour
+* 48 grams (1/2 cup + 1 1/2 TBSP) unsweetened cocoa powder
+* 2.3 grams (1/2 TSP) baking soda
+* 3 grams (1 TSP) kosher salt
+* 134 grams (1/2 cup + 2 TBSP) dark brown sugar
+* 12 grams (1 3/4 TSP) blackstrap molasses
+* 104 grams (1/2 cup + 1 TSP) sugar
+* 107 grams (2/3 cup) 70%-72% Chocolate chunks
+* 107 grams (scant 1/2 cup) chocolate chips
+* 167 grams (5.9 ounces) unsalted butter, room temp
+* 60 grams (3 TBSP + 2.5 TSP - about 1 extra large) eggs
+
+*Instructions*
+
+1. Sift and whisk together flour, baking soda, salt, and cocoa powder in a small bowl.
+2. In a separate bowl stir together sugars and molasses. Try to stir out any chunks.
+3. In the bowl of a stand mixer, add softened butter and cream until butter is very soft and holds peaks with the paddle attachment. It should almost be the consistency of a thick mayo.
+4. Add in sugar mixture and cream together until smooth.
+5. Add eggs and mix on low speed for 15-30 seconds. There is no need to completely mix in the eggs.
+6. Add the flour ingredients in 2 batches, mixing slowly until just combined.
+7. Add chocolate and pulse a few times on low speed to mix in without overmixing.
+8. Let dough chill for 30 minutes and preheat oven to 325 degrees F.
+9. On baking sheets lined with parchment paper or a Silpat baking sheet, portion out cookies in large balls, 75 grams each. You should get six per sheet. 
+10. Bake cookies for 16-18 minutes until just set.
+11. Let cool before serving. Once cool, you can store these at room temperature for a few days in an airtight container.
+
+## No-bake Desserts {-}
+### Lemon Posset w/ Watermelon Granita {-}
+
+This original no-bake dessert consists of lemon posset topped with watermelon granita, blueberry compote and crushed pistachios.
+
+Lemon Posset:
+
+*Ingredients*
+
+* 2 cups heavy whipping cream
+* 2/3 cups (4 2/3 ounces or 132 grams) granulated sugar
+* 1 TBSP grate lemon zest
+* 6 TBSP freshly squeezed lemon juice
+* 1 1/2 cups blueberries (for garnish)
+
+*Instructions*
+
+1. In a medium saucepan, combine cream, sugar, and lemon zest. Bring to a boil over medium heat. and continue to boil, stirring frequently to dissolve the sugar. If the mixture begins to boil over, briefly remove from heat. Cook until mixture is reduced to 2 cups, 8 to 12 minutes. Reducing the cream mixture to exactly 2 cups creates the best consistency. To monitor the amount, transfer the liquid to a 2-cup heatproof liquid measuring cup once or twice during boiling.
+2. Remove saucepan from the heat and stir in the lemon juice. Let sit until mixture is cooled slightly and skin forms on top, about 20 minutes. Strain through a fine-mesh strainer into bowl or liquid measuring cup with a spout; discard zest. Divide mixture evenly among 6 individual ramekins or serving glasses or 12 shot glasses. Portioning is key, as spooning the set dessert from one large serving bowl will cause the texture to suffer.
+3. Refrigerate, uncovered, until set, at least 3 hours. Once chilled, possets can be wrapped in plastic wrap and refrigerated for up to 2 days. Unwrap and let sit at room temperature for 10 minutes before serving. If desired, garnish with berries and a few springs of lemon peel and serve.
+
+*Notes*
+
+* Chill well ahead of time of serving!
+* The ratios are super important for a perfect posset
+* Remove the skin after you boil the cream with a strainer
+
+Watermelon Granita: 
+
+*Ingredients*
+
+* 1/2 whole seedless watermelon
+  + Cut into chucnk (about 8 cups of chunks)
+* 2 limes, juiced
+* 1/3 cups of sugar
+
+*Instructions*
+
+1. Place half the watermelon, half the lime juice, and half the sugar in a blender. Process until smooth, then pour into a separate bowl. 
+2. Repeat with other half of ingredients. Pour into same bowl as other batch.
+3. Transfer mixture to a 9 x 13 baking dish. Freeze for two or three hours, then begin the process of lightly scraping the top, frozen layer.
+4.  Return pan to freezer with the shaved ice on top; remove a couple of hours later and continue scraping. Repeat the occasional scraping process until the entire mixture is shaved. Store, covered in plastic wrap, until serving. 
+
+Blueberry Compote: 
+
+*Ingredients*
+
+* Blueberries
+  + enough to cover the bottom of a small pot
+* Sugar
+* Lime zest
+
+*Instructions*
+
+[Guess on the ratios :) taste it to determine when it's done.]
+* Cook the blueberries with sugar and lime zest until it's thick.
+
+Pistachios Garnish: 
+
+*Ingredients*
+
+* Pistachios, of course!
+
+*Instructions*
+
+* Discard the pistachio husks
+* Crush the pistachios
+
+Put it all together!
+
+*Instructions*
+
+1. Cover the posset with granita.
+2. Add a few blueberries.
+3. Add a few crushed pistachios.
+
+*Notes*
+
+* Go light on the toppings.
+
+## Cocktails {-}
+### Aviation {-}
+  
+*Ingredients*
+
+* 2 ounces gin
+  + Bluecoat Gin or 
+  + London Dry Gin
+* 1/2 ounce maraschino liqueur
+* 1/2 ounce crème de violette 
+* 3/4 ounce fresh lemon juice
+* Garnish: lemon twist
+
+*Instructions*
+
+* Add all ingredients into a shaker with ice and shake
+  + Fill the cocktail shaker half full with ice cubes
+* Strain into a cocktail glass
+* Garnish with a lemon twist
+
+### Blue Lagoon {-}
+
+*Ingredients*
+
+* 1 ounce of vodka
+  + Titos Vodka
+* 1 ounce of Blue curaçao
+* 4 ounces of Lemonade
+  + Brownie points for using freshly squeezed lemons
+* Garnish: Orange wheel
+* Garnish: Maraschino cherry
+
+*Instructions*
+
+* Add all ingredients into a shaker with ice and shake
+  + Fill the cocktail shaker half full with ice cubes
+* Strain into a hurricane glass over crushed ice
+* Garnish with an orange wheel and maraschino cherry
