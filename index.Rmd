@@ -11,9 +11,11 @@ github-repo: katelyn98/RecipesSite
 description: "This is a collection of Asher's favorite recipes and wine pairings"
 ---
 
-# Asher's Cookbook {-}
+# Happy Birthday {-}
 
-## Happy Birthday {-}
+Cooking delicious, savory (and sometimes sweet) platters takes talent and many times multiple attempts. Finding recipes for these platters is not easy ever since online advertising was discovered. Recipe sites out there are covered in dynamic, annoying ads that cover portions of the ingredients list or the instructions. Furthermore, these websites with recipes are pages long of unnecessary pictures and stories about the platter. This really annoys Asher...thus, I have created a website that is AD FREE, STORY FREE, and CONCISE. (It also started to really annoy me while I was trying to find our recipes to add to this cookbook).
 
+## Special Note {-}
 
+Happy Birthday Asher! In hopes to save you stress while you are cooking me all these wonderful meals, I present to you Asher's Cookbook (asherscooking.com). You have cooked me such delicious meals that I never even knew existed. I look forward to cooking these meals with you again, this time without all the annoying advertisements! You're are always going to be a Michelin Star Chef in my heart! Hugs and kisses ~ Katelyn <3 
 

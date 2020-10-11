@@ -3,8 +3,7 @@
 Desserts and cocktails are one of the most memorable dishes from a dinner party. 
 
 ## Cakes {-}
-### Dessert 1 {-}
-### Dessert 2 {-}
+### Carrot Cake {-}
 
 ## Cookies {-}
 ### Chocolate Chunk Cookies {-}
@@ -39,6 +38,10 @@ Desserts and cocktails are one of the most memorable dishes from a dinner party.
 
 ## No-bake Desserts {-}
 ### Lemon Posset w/ Watermelon Granita {-}
+
+<p align="center">
+  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_9387.jpeg" width=450px height=315px/> 
+</p>
 
 This original no-bake dessert consists of lemon posset topped with watermelon granita, blueberry compote and crushed pistachios.
 
@@ -116,6 +119,28 @@ Put it all together!
 *Notes*
 
 * Go light on the toppings.
+
+### Panna Cotta {-}
+
+<p align="center">
+  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_7054.JPG" width=450px height=315px/> 
+</p>
+
+*Ingredients*
+
+* 1 teaspoon unflavored gelatin
+* 1 tablespoon cold water
+* 1 ½ cups heavy cream
+* ¼ cup sugar
+* ¼ teaspoon vanilla extract
+
+*Instructions*
+
+1. Sprinkle gelatin over the water. The gelatin will absorb the water and dissolve, in a process called “blooming.”
+2. In a small saucepan, combine heavy cream with sugar and cook over medium until it’s at the scalding point, or just under a boil.
+3. Once the cream has almost reached the boiling point, remove from heat and add vanilla extract and bloomed gelatin. Stir until fully dissolved.
+4. Strain panna cotta mixture into desired serving tempered glasses.
+5. Allow cream to come to room temperature before chilling in the fridge for 2-4 hours, or until the cream is firm in texture.
 
 ## Cocktails {-}
 ### Aviation {-}

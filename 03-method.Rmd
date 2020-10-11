@@ -1,7 +1,7 @@
 # Dinner {-}
 
 ## Beef {-}
-###Beef and Broccoli {-}
+### Beef and Broccoli {-}
 
 *Ingredients*
 
@@ -30,6 +30,10 @@
 5. Add 2 TSBP water to the wok and toss the broccoli in the steam for an additional 2 minutes. Add the beef back to the wok, then add the sauce you made. Cook, stirring and tossing frequently, for 30 seconds or so. Add the butter and stir and toss again for 30 more seconds. Serve immediately with rice
 
 ### Steak au Poivre {-}
+
+<p align="center">
+  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_1698.JPG" width=450px height=315px/> 
+</p>
 
 *Ingredients*
 
@@ -101,7 +105,7 @@
 7. Bake until the chicken is cooked through, another 20 to 25 minutes. While the chicken is cooking, in a small bowl, mix the yogurt with the garlic, the remaining salt and pepper, and a squeeze of fresh lemon or lime juice.
 8. Remove the baking sheet from the oven and spoon the yogurt sauce in various places over the chicken and potatoes. Top with fresh herbs and serve.
 
-### Chipotle Chicken Kabobs {-}
+### Chipotle Chicken {-}
 
 *Ingredients* 
 
@@ -140,6 +144,45 @@ For the avocado cream sauce:
 * Use more chipotles in adobo sauce (like four or five) and the juice.
 * Don't bother with the skewers. Just fry it up in a pan.
 * Serve in flour tortillas with crunchy lettuce.
+
+## Breads & Dough {-}
+### Pizza Dough {-}
+
+*Ingredients*
+
+* 3 1/2 to 4 cups bread flour, plus more for rolling
+* 1 teaspoon sugar
+* 1 envelope instant dry yeast
+* 2 teaspoons kosher salt
+* 1 1/2 cups water, 110 degrees F
+* 2 tablespoons olive oil, plus 2 teaspoons
+
+*Instructions*
+
+1. Combine the bread flour, sugar, yeast and kosher salt in the bowl of a stand mixer and combine. While the mixer is running, add the water and 2 tablespoons of the oil and beat until the dough forms into a ball. If the dough is sticky, add additional flour, 1 tablespoon at a time, until the dough comes together in a solid ball. If the dough is too dry, add additional water, 1 tablespoon at a time. Scrape the dough onto a lightly floured surface and gently knead into a smooth, firm ball.
+2. Grease a large bowl with the remaining 2 teaspoons olive oil, add the dough, cover the bowl with plastic wrap and put it in a warm area to let it double in size, about 1 hour. Turn the dough out onto a lightly floured surface and divide it into 2 equal pieces. Cover each with a clean kitchen towel or plastic wrap and let them rest for 10 minutes.
+
+*Notes*
+
+* Knead with hands. Work around the volume of water, adding flour as needed. 
+* Give the dough time to rise!
+
+### Tortillas {-}
+
+*Ingredients* 
+* 3 cups flour
+* 1 teaspoon salt
+* 4.5 Tablespoons oil
+* 1 cup water
+
+*Instructions*
+
+1. Heat oil and water until pretty hot, approx. 140 F. 
+2. Mix with flour and salt and knead until combined. 
+
+*Notes*
+
+* A bit of bread flour (1 out of 3 cups) makes the tortillas sturdier.
 
 ## Pastas {-}
 ### Stuffed Shells {-}
