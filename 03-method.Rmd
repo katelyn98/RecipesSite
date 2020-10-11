@@ -31,9 +31,7 @@
 
 ### Steak au Poivre {-}
 
-<p align="center">
-  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_1698.JPG" width=450px height=315px/> 
-</p>
+![Steak au Poivre](https://github.com/katelyn98/RecipesSite/blob/website/IMG_1698.JPG)
 
 *Ingredients*
 

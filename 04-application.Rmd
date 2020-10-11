@@ -39,9 +39,7 @@ Desserts and cocktails are one of the most memorable dishes from a dinner party.
 ## No-bake Desserts {-}
 ### Lemon Posset w/ Watermelon Granita {-}
 
-<p align="center">
-  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_9387.jpeg" width=450px height=315px/> 
-</p>
+![Lemon Posset](https://github.com/katelyn98/RecipesSite/blob/website/IMG_9387.jpeg)
 
 This original no-bake dessert consists of lemon posset topped with watermelon granita, blueberry compote and crushed pistachios.
 
@@ -122,9 +120,7 @@ Put it all together!
 
 ### Panna Cotta {-}
 
-<p align="center">
-  <img src="https://github.com/katelyn98/RecipesSite/blob/website/IMG_7054.JPG" width=450px height=315px/> 
-</p>
+![Panna Cotta](https://github.com/katelyn98/RecipesSite/blob/website/IMG_7054.JPG)
 
 *Ingredients*
 
