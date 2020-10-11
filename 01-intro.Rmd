@@ -1,8 +1,27 @@
 # Breakfast & Brunch {-}
 
-## Vegan {-}
+## Egg-based {-}
 
-### Vegan Recipe 1 {-}
+### Dutch Baby {-}
+
+*Ingredients*
+
+* 3 eggs
+* 1/2 cup flour
+* 1/2 cup milk
+* 1 TBSP sugar
+* Pinch of nutmeg
+* Pinch of salt
+* Drop of vanilla
+* 2 TBSP butter
+
+*Instructions*
+
+1. Combine the eggs, flour, milk, sugar, nutmeg, salt, and vanilla in a bowl. Whisk until combined. 
+2. Melt the butter and pour into a 10 inch or so baking dish.
+3. Pour batter into the baking dish.
+4. Bake at 425 for 20 minutes or until it looks puffed up enough.
+
 ### Vegan Recipe 2 {-}
 
 

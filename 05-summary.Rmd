@@ -1,13 +1,17 @@
-# Food from other Countries {-}
+# Wine Pairings {-}
 
-## Europe {-}
+## Breakfast & Brunch {-}
 ### Sandwich Recipe 1 {-}
 ### Sandwich Recipe 2 {-}
 
-## Central/South America {-}
+## Lunch {-}
 ### Sandwich Recipe 1 {-}
 ### Sandwich Recipe 2 {-}
 
-## Africa {-}
+## Dinner {-}
+### Sandwich Recipe 1 {-}
+### Sandwich Recipe 2 {-}
+
+## Desserts {-}
 ### Sandwich Recipe 1 {-}
 ### Sandwich Recipe 2 {-}
