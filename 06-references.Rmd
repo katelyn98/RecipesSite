@@ -1,3 +1,5 @@
 `r if (knitr:::is_html_output()) '
 # References {-}
+
+Many of the recipes have been modified from other websites. Citations are clearly important and the recipes used in this cookbook require attributions...this is still a work in progress. 
 '`

@@ -1,5 +1,7 @@
 # Dinner {-}
 
+This is probably Asher's favorite - he gets very creative when it comes to cooking dinner platters. Here, you can find several recipes so far that he has tried and were super delicious! 
+
 ## Beef {-}
 ### Beef and Broccoli {-}
 
@@ -168,6 +170,7 @@ For the avocado cream sauce:
 ### Tortillas {-}
 
 *Ingredients* 
+
 * 3 cups flour
 * 1 teaspoon salt
 * 4.5 Tablespoons oil
