@@ -192,7 +192,7 @@ Adapted from NYT cooking recipe: more potatoes, less chicken is our advice. Nice
 
 Sauvignon Blanc or Albariño. Pair on the lemon.
 
-### Chicken Gnocchi Soup
+### Chicken Gnocchi Soup {-}
 
 *Ingredients*
 
