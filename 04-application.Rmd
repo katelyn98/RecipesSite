@@ -5,6 +5,53 @@ Desserts and cocktails are one of the most memorable dishes from a dinner party.
 ## Cakes {-}
 ### Carrot Cake {-}
 
+### Pumpkin Caramel Cream Roulade {-}
+
+One easy trick to train your cake to be a spiral!
+
+*Ingredients*
+
+Cake
+* Unsalted butter for greasing
+* 160g all-purpose flour
+* 1 t cinnamon
+* 0.75 t baking powder
+* 0.25 t baking soda
+* 0.5 t kosher salt
+* 1 cup pumpkin puree
+* 3 eggs
+* 0.5 C sugar
+* 0.5 C dark brown sugar
+* 1 t vanilla extract
+* powdered sugar for dusting
+
+Caramel Cream Filling
+* 0.5 C sugar
+* 0.25 C heavy cream
+* 1 t unsalted butter
+* 8 oz cream cheese, cubed and room temp
+* 0.25 C powdered sugar
+
+Whipped Cream for Folding into Caramel Cream
+* 0.5 C heavy cream
+
+*Instructions*
+1. Heat oven to 350F. Butter 13x18 baking sheet. Line with parchment (note: foil works better!)
+and butter that too (wow!).
+2. Cake: In one bowl, whisk together flour, cinnamon, baking powder, baking soda, salt. In another, whisk together pumpkin, eggs, sugar, brown sugar, and vanilla until smooth. Fold the dry into the wet, eliminating any lumps.
+3. Spread the batter on the prepared sheet in an even layer. Bake until springs back when pressed gently in the center, about 15 minutes.
+4. Put a clean dish towel on a work surface and dust thoroughly with powdered sugar.
+5. Flip the cake onto the towel and peel off the parchment. Starting from one of the short edges of the towel, roll the cake and towel into a spiral gently. Transfer towel-cake to rack to cool completely.
+6. Prepare the filling while the cake bakes: Add 1 T water to a small saucepan. Add sugar and bring to boil; simmer, without stirring, over medium high heat. Swirl when brown spots appear so it cooks evenly. Cook 6-8 mins until it's a deep amber color. Remove from heat and stir in cream, butter (watch out, it bubbles).
+7. Cook for another minute over medium heat until smooth and creamy. Pour into bowl of stand mixer (or hand mixer), let cool for a few minutes. Don't cool it completely because it's, uh, caramel.
+8. With mixer on low, add cream cheese cubes one piece at a time. Beat in powdered sugar. Chill until completely cold.
+9. Whip 0.5 C heavy cream to stiff peaks, and fold it into the caramel cream.
+10. Carefully unroll the cooled cake. Spread the filling evenly over it, then roll up without towel. (If you include the towel, you deserve it.) Trim the ends of the cake so it is ~pretty~. Transfer to a ~pretty~ serving plate and ~prettily~ dust with powdered sugar.
+
+*Chef's Notes*
+
+This was great and was breakfast for like two weeks. Adapted from NYT cooking. Psst: We just got rid of the coffee in theirs.
+
 ## Cookies {-}
 ### Chocolate Chunk Cookies {-}
 
@@ -38,8 +85,6 @@ Desserts and cocktails are one of the most memorable dishes from a dinner party.
 
 ## No-bake Desserts {-}
 ### Lemon Posset w/ Watermelon Granita {-}
-
-![Lemon Posset](https://github.com/katelyn98/RecipesSite/blob/website/IMG_9387.jpeg)
 
 This original no-bake dessert consists of lemon posset topped with watermelon granita, blueberry compote and crushed pistachios.
 
